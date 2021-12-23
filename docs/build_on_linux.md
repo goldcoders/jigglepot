@@ -30,5 +30,9 @@ flutter pub get
 3. Run Build runner
 ```
 dart run build_runner build
+
+or
+
+fvm dart run build_runner build
 ```
 
