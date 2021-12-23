@@ -15,3 +15,4 @@
 - added dll_lib folder
 - added docs folder
 - added Readme
+- added fvm/flutter_sdk to .gitignore and exempted fvm_config.json
