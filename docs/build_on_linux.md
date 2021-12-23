@@ -27,3 +27,8 @@ flutter clean
 flutter pub get
 ```
 
+3. Run Build runner
+```
+dart run build_runner build
+```
+
