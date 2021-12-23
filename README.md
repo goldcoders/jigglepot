@@ -7,7 +7,8 @@
 
 
 <p align="center">
-<a href="https://github.com/goldcoders/jigglepot"><img src="https://img.shields.io/github/stars/goldcoder/jigglepot/.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
+https://img.shields.io/badge/downloads-857k-brightgreen
+<a href="https://github.com/goldcoders/jigglepot/releases"></a><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/goldcoders/jigglepot/total?label=downloads&logo=github&logoColor=deeppink"></a>
 <a href="https://github.com/goldcoders/jigglepot"><img src="https://img.shields.io/github/forks/goldcoders/jigglepot.svg"></a>
 <a href="https://opensource.org/licenses/AGPL-3.0"><img src="https://img.shields.io/badge/license-AGPL-purple.svg" alt="License: AGPL"></a>
 
