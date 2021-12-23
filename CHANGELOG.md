@@ -1,0 +1,17 @@
+# 0.0.1
+- init on ubuntu
+- added fvm version stable 2.8.1
+- added launch.json
+- added dependencies: build_runner, envify,envify_generator, flutter_lints
+- remove comments in pubspec
+- update dependencies in pubspec
+- added assets directory for images and scripts
+- added CHANGELOG.md
+- added LICENSE
+- added .env.example
+- update .gitignore to include .vscode and .env except launch.json and .env.example
+- update analysis_options.yaml for linting
+- create assets folder , with images and scripts
+- added dll_lib folder
+- added docs folder
+- added Readme
