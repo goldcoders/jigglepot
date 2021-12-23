@@ -1,0 +1,73 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+      {
+        "name": "Dart Run All Test",
+        "request": "launch",
+        "type": "dart",
+        "program": "./test/"
+      },
+      {
+        "name": "Current Device: Debug",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "debug"
+      },
+      {
+        "name": "Current Device: Profile",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "profile"
+      },
+      {
+        "name": "Current Device: Release Mode",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "release"
+      },
+      {
+        "name": "MacOS: Debug",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "macos",
+        "flutterMode": "debug"
+      },
+      {
+        "name": "MacOS: Profile",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "macos",
+        "flutterMode": "profile"
+      },
+      {
+        "name": "Windows: Debug",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "windows",
+        "flutterMode": "debug"
+      },
+      {
+        "name": "Windows: Profile",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "windows",
+        "flutterMode": "profile"
+      },
+      {
+        "name": "Linux: Debug",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "linux",
+        "flutterMode": "debug"
+      },
+      {
+        "name": "Linux: Profile",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "linux",
+        "flutterMode": "profile"
+      },
+    ],
+  }
+
